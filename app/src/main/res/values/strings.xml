@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Code Library</string>
+    <string name="menu_home">Home</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_change_theme">Dark Theme</string>
+    <string name="dev_name">"Notification Sample"</string>
+    <string name="dev_mail">Light Dark Theme Sample</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="simple_noti">Simple Notification</string>
+    <string name="big_text_noti">Big Text Notification</string>
+    <string name="big_pict_noti">Big Picture Notification</string>
+    <string name="inbox_noti">Inbox Style Notification</string>
+    <string name="reply_noti">Reply Notification</string>
+    <string name="headsup_noti">HeadsUp Notification</string>
+    <string name="message_noti">Message Style Notification</string>
+    <string name="remote_noti">Remoteview Notification</string>
+    <string name="progress_noti">ProgressBar Notification</string>
+
+    //exoplayer
+
+</resources>
